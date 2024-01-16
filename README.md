@@ -8,7 +8,7 @@ This project contains code for some RL implementations where a Control Lyapunov 
 A significant challenge in reinforcement learning (RL) algorithms is that they suffer from high sample complexity, translating into long computation times. This study introduces a fusion of control theory and RL to find policies of autonomous systems with relatively few training episodes. Leveraging Hamilton-Jacobi Reachability, we compute a Decomposed Control Lyapunov Function (DCLF) that encapsulates system stability and uses it as part of the reward function in RL, which we show improves RL performance. We also extend prior work by constructing Lyapunov functions for high-dimensional systems, mitigating the curse of dimensionality on a particular class of dynamical systems. Through multiple examples, including a 12-dimensional drone, we demonstrate the effectiveness of this approach, where we learned a policy faster and with less data than standard RL algorithms. 
 
 
-##Setup 
+## Setup 
 
 ### Constructing CLF
 -src/Constructing DCLF contains the files necessary for computing CLF using Hamilton-Jacobi Reachability Analysis. 
