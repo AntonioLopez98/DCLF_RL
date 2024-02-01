@@ -11,7 +11,7 @@ This project contains code for some RL implementations where a Control Lyapunov 
   </tr>
   <tr>
     <td valign="top"><img src="Figures/Dubins_traj.gif"  height="250"></td>
-    <td valign="top"><img src="Figures/LunarLander.gif" height="250"></td>
+    <td valign="top"><img src="Figures/LunarLander.gif" height="250" width="300" ></td>
     <td valign="top"><img src="Figures/Drone.gif" height="250" ></td>
   </tr>
  </table>
