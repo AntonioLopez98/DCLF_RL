@@ -9,10 +9,10 @@ A significant challenge in reinforcement learning (RL) algorithms is that they s
 
 
 ## Dependencies 
-gym - 0.18.0
-numpy - 1.19.5
-matplotlib - 3.3.4
-pytorch - 1.8.1
+gym - 0.18.0 \\
+numpy - 1.19.5 \\
+matplotlib - 3.3.4 \\
+pytorch - 1.8.1 \\
 
 
 ### Constructing CLF
