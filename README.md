@@ -6,10 +6,12 @@ This project contains code for some RL implementations where a Control Lyapunov 
 <table>
   <tr>
     <td style="height: 10px;">1. Dubins Car Trajectory </td>
-    <td style="height: 10px;">2. Drone Landing (Left):xz plane (Right): y</td>
+    <td style="height: 10px;">2. Lunar Lander</td>
+    <td style="height: 10px;">3. Drone Landing (Left):xz plane (Right): y</td>
   </tr>
   <tr>
     <td valign="top"><img src="Figures/Dubins_traj.gif"  height="250"></td>
+    <td valign="top"><img src="Figures/LunarLander.gif" height="250"></td>
     <td valign="top"><img src="Figures/Drone.gif" height="250" ></td>
   </tr>
  </table>
