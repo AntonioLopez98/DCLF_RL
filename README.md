@@ -23,6 +23,7 @@ A significant challenge in reinforcement learning (RL) algorithms is that they s
 - matplotlib - 3.3.4 
 - pytorch - 1.8.1 
 
+## Implementation 
 
 ### Constructing CLF
 
