@@ -31,7 +31,7 @@ A significant challenge in reinforcement learning (RL) algorithms is that they s
 - helperOC-master has integrated functions to facilitate using the Toolbox
 - SystemDecomposition contains different examples for using our method to compute DCLF using system decomposition. Run `/src/Reachability_CLVF/System Decomposition/Dubins Car CLVF/main_dubins.m` to visualize the CLF for a Dubins Car example.
 
-###Reinforcement Learning 
+### Reinforcement Learning 
 
 In `src/` contains two folder for running our approach on a Dubins Car example and the Lunar Lander environment from OpenAI. Run `src/dubins_model_gymenv/dubins_CLF.py to see a little demo of the Dubins Car trajectory after the training process. Run 
 
