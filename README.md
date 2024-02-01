@@ -3,6 +3,9 @@
 
 This project contains code for some RL implementations where a Control Lyapunov Function is added on the reward function to accelerate the training process. This project also contains MATLAB code for computing Control Lyapunov Functions using Hamilton-Jacobi Reachability analysis. Read the full paper here. 
 
+
+Here, we show the trajectories of the different RL implementations done with our method. 
+
 <table>
   <tr>
     <td style="height: 10px;">1. Dubins Car Trajectory </td>
