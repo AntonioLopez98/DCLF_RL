@@ -19,9 +19,9 @@ A significant challenge in reinforcement learning (RL) algorithms is that they s
 
 ### Constructing CLF
 
--`src/Reachability_CLVF` contains the code in MATLAB necessary for computing Lyapunov functions using Reachability. 
+- `src/Reachability_CLVF` contains the code in MATLAB necessary for computing Lyapunov functions using Reachability. 
 - ToolboxLS contains the code for using Level Set methods to obtain solutions for Hamilton-Jacobi partial differential equations. For more information on how to use this toolbox, see [here](https://www.cs.ubc.ca/~mitchell/ToolboxLS/)
 - helperOC-master has integrated functions to facilitate using the Toolbox
-- SystemDecomposition contains different examples for using our method to compute DCLF using system decomposition. `Run /src/Reachability_CLVF/System Decomposition/Dubins Car CLVF/main_dubins.m` to visualize the CLF for a Dubins Car example.  
+- SystemDecomposition contains different examples for using our method to compute DCLF using system decomposition. Run `/src/Reachability_CLVF/System Decomposition/Dubins Car CLVF/main_dubins.m` to visualize the CLF for a Dubins Car example.  
 
 
