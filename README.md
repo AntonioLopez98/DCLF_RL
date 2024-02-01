@@ -51,9 +51,9 @@ A significant challenge in reinforcement learning (RL) algorithms is that they s
 
 ### Reinforcement Learning 
 
-In `src/` contains two folder for running our approach on a Dubins Car example and the Lunar Lander environment from OpenAI. Run `src/dubins_model_gymenv/dubins_CLF.py to see a little demo of the Dubins Car trajectory after the training process. Run 
+In `src/` there are two folders for running our approach on a Dubins Car example and the Lunar Lander environment from OpenAI. Run `src/dubins_model_gymenv/dubins_CLF.py to see a demo of the Dubins Car trajectory after training.
 
 ## Contact 
-For any questions on how to use this code, do not hesitate to reach out to Antonio Lopez at [alopezz@utexas.edu](mailto:alopezz@utexas.edu) or open an issue.
+For any questions on using this code, do not hesitate to contact Antonio Lopez at [alopezz@utexas.edu](mailto:alopezz@utexas.edu) or open an issue.
 
 
