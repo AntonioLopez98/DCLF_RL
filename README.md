@@ -56,4 +56,18 @@ In `src/` there are two folders for running our approach on a Dubins Car example
 ## Contact 
 For any questions on using this code, do not hesitate to contact Antonio Lopez at [alopezz@utexas.edu](mailto:alopezz@utexas.edu) or open an issue.
 
+## Cite this work
+
+@article{DCLF,
+  author = {Lopez, Antonio and Fridovich-Keil, David},
+  doi = {10.0000/00000},
+  journal = {{IEEE} Robotics Autom. Lett.},
+  month = {3},
+  number = {},
+  pages = {},
+  title = {{Decomposing Control Lyapunov Functions for Efficient Reinforcement Learning}},
+  volume = {},
+  year = {2024}
+}
+
 
