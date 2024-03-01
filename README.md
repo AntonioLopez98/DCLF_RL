@@ -12,7 +12,7 @@ Here, we show the trajectories of the different RL implementations done with our
     <td style="height: 10px;">2. Lunar Lander</td>
   </tr>
   <tr>
-    <td valign="top"><img src="Figures/Dubins_traj.gif"  height="250"></td>
+    <td valign="top"><img src="Figures/Dubins_traj.gif"  height="248"></td>
     <td valign="top"><img src="Figures/LunarLander.gif" height="250" width="300" ></td>
   </tr>
  </table>
