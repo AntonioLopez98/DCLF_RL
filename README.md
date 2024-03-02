@@ -71,7 +71,7 @@ For any questions on using this code, do not hesitate to contact Antonio Lopez a
   month = {3},
   number = {},
   pages = {},
-  title = {{Decompos\ng Control Lyapunov Functions for Efficient Reinforcement Learning}},
+  title = {{Decomposing Control Lyapunov Functions for Efficient Reinforcement Learning}},
   volume = {},
   year = {2024}
 }`
