@@ -55,7 +55,7 @@ but due to the lack of a general method, it is often a challenge to identify a s
 
 ### Reinforcement Learning 
 
-- In `src/,` there are two folders for running our approach on a Dubins Car example and the Lunar Lander environment from OpenAI. Run `src/dubins_model_gymenv/dubins_CLF.py` to see a demo of the Dubins Car trajectory after training. This demo trains the agent using the SAC algorithm with the DCLF learned from our method. 
+- In `src/`, there are two folders for running our approach on a Dubins Car example and the Lunar Lander environment from OpenAI. Run `src/dubins_model_gymenv/dubins_CLF.py` to see a demo of the Dubins Car trajectory after training. This demo trains the agent using the SAC algorithm with the DCLF learned from our method. 
 - You can change the training by adding different CLFs obtained from MATLAB. Just add the respective file V_1.mat (which is the DCLF obtained using our method) to the folder `src/dubins_model_gymenv`
 
 
