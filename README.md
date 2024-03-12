@@ -64,16 +64,17 @@ For any questions on using this code, do not hesitate to contact Antonio Lopez a
 
 ## Cite this work
 
+```
 @article{DCLF,
-  author = {Lopez, Antonio and Fridovich-Keil, David},
-  doi = {10.0000/00000},
-  journal = {{IEEE} Robotics Autom. Lett.},
-  month = {3},
-  number = {},
-  pages = {},
-  title = {{Decomposing Control Lyapunov Functions for Efficient Reinforcement Learning}},
-  volume = {},
-  year = {2024}
+  author  = "Lopez, Antonio and Fridovich-Keil, David",
+  title   = "Decomposing Control Lyapunov Functions for Efficient Reinforcement Learning",
+  journal = "IEEE Robotics and Automation Letters",
+  year    = 2024,
+  volume  = "",
+  number  = "",
+  pages   = ""
 }
+```
+
 
 
