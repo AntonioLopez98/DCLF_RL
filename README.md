@@ -64,7 +64,7 @@ For any questions on using this code, do not hesitate to contact Antonio Lopez a
 
 ## Cite this work
 
-`@article{DCLF,
+@article{DCLF,
   author = {Lopez, Antonio and Fridovich-Keil, David},
   doi = {10.0000/00000},
   journal = {{IEEE} Robotics Autom. Lett.},
@@ -74,6 +74,6 @@ For any questions on using this code, do not hesitate to contact Antonio Lopez a
   title = {{Decomposing Control Lyapunov Functions for Efficient Reinforcement Learning}},
   volume = {},
   year = {2024}
-}`
+}
 
 
